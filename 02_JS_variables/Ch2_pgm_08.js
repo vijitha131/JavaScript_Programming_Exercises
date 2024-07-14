@@ -10,8 +10,13 @@ console.log("New score: " + score);
 
 console.log("Way to go!");
 
+console.log("You successfully splatted a kumquat!")
 
+score=score+100;
 
+console.log("New score after splatting the kumquat: " +score);
+
+console.log("Congratulations! Keep up the great work! ");
 /* Further Adventures
  *
  * The player splats a kumquat.
