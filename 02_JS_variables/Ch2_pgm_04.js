@@ -1,13 +1,18 @@
 // Variables vary
 
 var score;
-score = 100;
+score = 200;
 console.log(score);
 
-score = 150;
+score = 250;
 console.log(score);
 
+var score2;
+score2=67;
+console.log(score2);
 
+score2=567;
+console.log(score2);
 
 /* Further Adventures
  *
