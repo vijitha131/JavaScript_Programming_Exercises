@@ -5,14 +5,14 @@ var book;
 book = {
     title : "The Hobbit"
 };
-console.log(book)
+console.log(book);
 
 var book2;
 
 book2 = {
     title : "Pride and Prejudice"
 };
-console.log(book2)
+console.log(book2);
 
 
 
