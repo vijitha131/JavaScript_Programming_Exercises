@@ -1,8 +1,11 @@
 // Creating an empty object
 
 var book;
+i
+book = {
 
-book = {};
+  
+};
 
 
 /* Further Adventures
