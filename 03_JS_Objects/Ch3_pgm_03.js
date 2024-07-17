@@ -3,12 +3,18 @@
 var book;
 
 book = {
-    title : "The Hobbit",
+    title : " There and Back Again",
     author : "J. R. R. Tolkien",
     published : 1937
 };
 
 console.log(book);
+book2={
+    title : "The Alchemist",
+    author : "Paulo Coelho",
+    published : 1988
+};
+console.log(book2);
 
 
 
